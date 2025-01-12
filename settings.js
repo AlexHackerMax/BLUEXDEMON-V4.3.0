@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "2347030626048"
 
 
 
@@ -15,7 +15,7 @@ global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
 global.egg = "15"
 global.loc = "1"
-global.anticall = false
+global.anticall = true
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
@@ -27,9 +27,9 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "Palmpay"
+global.bankname = "Comfort Chinweokwu Mbaneme"
+global.accnumber = "9165763385"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
